@@ -1,0 +1,120 @@
+{
+    "skills": [
+            {
+                "Id":1,
+                "Title":"Musician",
+                "Content":"ive been a musician since i was 12 years old and i play two instruments the bass and guitar"
+                
+            },
+            {
+                "Id":2,
+                "Title":"Rugby",
+                "Content":"I played rugby from age 14  till 16 for my HighSchool (ElsiesRiver HighSchool)"
+                
+            },
+            {
+                "Id":3,
+                "Title":"Coding",
+                "Content":"I have knowledge on the coding languages HTML, CSS, Javascript and Vue.Js"
+                
+            }
+    ],
+    "education": [
+       {
+        "Id":1,
+        "Year":"2018",
+        "content":"I enrolled at the Jazz yard academy for music lessons"
+       },
+       {
+        "Id":2,
+        "Year":"2019",
+        "Content":"Completed an inspired stages bootcamp at Grand West"
+       },
+       {
+        "Id":3,
+        "Year":"2022",
+        "Content":"Completed Matric at ElsiesRiver Highschool"
+       },
+       {
+        "Id":4,
+        "Year":"2023",
+        "Content":"Enrolled at Life choices academy to study wed development"
+       }
+    ],
+    "projects": [
+          {
+            "id":1,
+            "Title":"Javascript E-commerce project",
+            "Image":"",
+            "URL":""
+          },
+          {
+            "id":2,
+            "Title":"Bootstrap portfolio",
+            "Image":"",
+            "URL":""
+          },
+          {
+            "id":3,
+            "Title":"First practise with vue",
+            "Image":"",
+            "URL":""
+          },
+          {
+            "id":4,
+            "Title":"Javascript calculator",
+            "Image":"",
+            "URL":""
+          },
+          {
+            "id":5,
+            "Title":"Javascript Bmi-Calculator",
+            "Image":"",
+            "URL":""
+          },
+          {
+            "id":6,
+            "Title":"JS and Bootstrap portfolio",
+            "Image":"",
+            "URL":""
+          }
+    ],
+     "testimonials": [
+           {
+            "id":1,
+            "Title":"Marcel Brown",
+            "Content":"Jason is a funny and charismatic person who inspires me everyday. He is a great role model and has humble qualities that will bring him very far in life. He is an amazing friend to all",
+            "URL":"https://i.postimg.cc/rwrMMByT/c12-marcel-brown-1.jpg"
+           },
+           {
+            "id":2,
+            "Title":"Zubair Matthee",
+            "Content":"Jason is an amazing person,he has charisma, and kindness that make him stand out from the crowd. He always approaches his work with a deep sense of passion and purpose. He is driven to a goal and works hard to achieve it",
+            "URL":"https://i.postimg.cc/gkpTn1Kd/IMG-20230414-WA0007.jpg"
+           },
+           {
+            "id":3,
+            "Title":"Jason Viljoen",
+            "Content":"Jason is a hard working,he never stops until the job is done. Wheter he is working on a project for work or helping out a friend in class, he is always doing things to the best of his ability.He is driven by a strong work ethic adn desire to succeed",
+            "URL":"https://i.postimg.cc/Vvs1B5cB/unnamed.jpg"
+           },
+           {
+            "id":4,
+            "Title":"Mish-Al Taliep",
+            "Content":"Jason is someone who gets along well with his peers. He puts 100% into every task presented to him. He lends a helping hand where needed, he is trustworthy and shows good leadership skills. I would recommend him to any company as he would be a valuable asset wherever he goes",
+            "URL":"https://i.postimg.cc/yYR4g2t8/Screenshot-2023-05-10-105540.png"
+           },
+           {
+            "id":5,
+            "Title":"Uthmaan Samsoien",
+            "Content":"",
+            "URL":""
+           },
+           {
+            "id":6,
+            "Title":"Imtiyaaz",
+            "Content":"",
+            "URL":""
+           }
+     ]
+}
