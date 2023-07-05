@@ -45,38 +45,38 @@
           {
             "id":1,
             "Title":"Javascript E-commerce project",
-            "Image":"",
-            "URL":""
+            "Image":"https://i.postimg.cc/dtFx9pn4/Screenshot-2023-07-05-094102.png",
+            "URL":"https://gleeful-douhua-cc4ef0.netlify.app"
           },
           {
             "id":2,
             "Title":"Bootstrap portfolio",
-            "Image":"",
-            "URL":""
+            "Image":"https://i.postimg.cc/0QHH54Pq/Screenshot-2023-07-05-091630.png",
+            "URL":"https://fanciful-melomakarona-8232d7.netlify.app"
           },
           {
             "id":3,
-            "Title":"First practise with vue",
-            "Image":"",
-            "URL":""
+            "Title":"Working JSON server deployed from git",
+            "Image":"https://i.postimg.cc/Xvm6QLDx/Screenshot-2023-07-05-094607.png",
+            "URL":"https://jason-barron07.github.io/vue-products-JSON/database.json"
           },
           {
             "id":4,
             "Title":"Javascript calculator",
-            "Image":"",
-            "URL":""
+            "Image":"https://i.postimg.cc/7Lmht3MR/Screenshot-2023-07-05-093005.png",
+            "URL":"https://funny-biscuit-245541.netlify.app"
           },
           {
             "id":5,
             "Title":"Javascript Bmi-Calculator",
-            "Image":"",
-            "URL":""
+            "Image":"https://i.postimg.cc/x8ncs9X0/Screenshot-2023-07-05-093846.png",
+            "URL":"https://taupe-shortbread-78b9b2.netlify.app"
           },
           {
             "id":6,
             "Title":"JS and Bootstrap portfolio",
-            "Image":"",
-            "URL":""
+            "Image":"https://i.postimg.cc/25ZGY53r/Screenshot-2023-07-05-093452.png",
+            "URL":"https://startling-fox-1098ed.netlify.app"
           }
     ],
      "testimonials": [
@@ -107,14 +107,14 @@
            {
             "id":5,
             "Title":"Uthmaan Samsoien",
-            "Content":"",
-            "URL":""
+            "Content":"Jason is a very determined being, always focused and wanting to get things done on time. This is an excellent trait to have as web developer as you will always be on par with deadlines. ",
+            "URL":"https://i.postimg.cc/tgxzdcNk/IMG-6957-1.jpg"
            },
            {
             "id":6,
             "Title":"Imtiyaaz",
-            "Content":"",
-            "URL":""
+            "Content":"Jason is very good when working alone and even better when he is put into a group. He is always trying to upskill his self by asking questions or learning from his peers, this making him a very hard working being. He is very good in HTML and CSS. Jason is kind and is good with working with people.",
+            "URL":"https://i.postimg.cc/Y0bVcPVg/C12-C2-Mogammad-Damon-1.jpg"
            }
      ]
 }
