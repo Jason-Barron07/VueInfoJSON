@@ -3,19 +3,21 @@
             {
                 "Id":1,
                 "Title":"Musician",
-                "Content":"ive been a musician since i was 12 years old and i play two instruments the bass and guitar"
+                "Content":"ive been a musician since i was 12 years old and i play two instruments the bass and guitar",
+                "Image":"https://i.postimg.cc/jj4yhQzm/ad1c85b2-d059-44cf-aa85-d0f517a0baca.jpg"
                 
             },
             {
                 "Id":2,
                 "Title":"Rugby",
-                "Content":"I played rugby from age 14  till 16 for my HighSchool (ElsiesRiver HighSchool)"
-                
+                "Content":"I played rugby from age 14  till 16 for my HighSchool (ElsiesRiver HighSchool)",
+                "Image":"https://i.postimg.cc/jjf7jVqz/20556437.jpg"
             },
             {
                 "Id":3,
                 "Title":"Coding",
-                "Content":"I have knowledge on the coding languages HTML, CSS, Javascript and Vue.Js"
+                "Content":"I have knowledge on the coding languages HTML, CSS, Javascript and Vue.Js",
+                "Image":"https://i.postimg.cc/yN5Cv50r/913cf8e4-07b7-40aa-ae5b-750cdba03ee5-cover.jpg"
                 
             }
     ],
