@@ -46,37 +46,43 @@
             "id":1,
             "Title":"Javascript E-commerce project",
             "Image":"https://i.postimg.cc/dtFx9pn4/Screenshot-2023-07-05-094102.png",
-            "URL":"https://gleeful-douhua-cc4ef0.netlify.app"
+            "URL":"https://gleeful-douhua-cc4ef0.netlify.app",
+            "Github":"https://github.com/Jason-Barron07/JsECOMMERCE.git"
           },
           {
             "id":2,
             "Title":"Bootstrap portfolio",
             "Image":"https://i.postimg.cc/0QHH54Pq/Screenshot-2023-07-05-091630.png",
-            "URL":"https://fanciful-melomakarona-8232d7.netlify.app"
+            "URL":"https://fanciful-melomakarona-8232d7.netlify.app",
+            "Github":"https://github.com/Jason-Barron07/bootstrapportfolio.git"
           },
           {
             "id":3,
             "Title":"Working JSON server deployed from git",
             "Image":"https://i.postimg.cc/Xvm6QLDx/Screenshot-2023-07-05-094607.png",
-            "URL":"https://jason-barron07.github.io/vue-products-JSON/database.json"
+            "URL":"https://jason-barron07.github.io/vue-products-JSON/database.json",
+            "Github":"https://github.com/Jason-Barron07/vue-products-JSON.git"
           },
           {
             "id":4,
             "Title":"Javascript calculator",
             "Image":"https://i.postimg.cc/7Lmht3MR/Screenshot-2023-07-05-093005.png",
-            "URL":"https://funny-biscuit-245541.netlify.app"
+            "URL":"https://funny-biscuit-245541.netlify.app",
+            "Github":"https://github.com/Jason-Barron07/calculator.git"
           },
           {
             "id":5,
             "Title":"Javascript Bmi-Calculator",
             "Image":"https://i.postimg.cc/x8ncs9X0/Screenshot-2023-07-05-093846.png",
-            "URL":"https://taupe-shortbread-78b9b2.netlify.app"
+            "URL":"https://taupe-shortbread-78b9b2.netlify.app",
+            "Github":"https://github.com/Jason-Barron07/bmicalculator.git"
           },
           {
             "id":6,
             "Title":"JS and Bootstrap portfolio",
             "Image":"https://i.postimg.cc/25ZGY53r/Screenshot-2023-07-05-093452.png",
-            "URL":"https://startling-fox-1098ed.netlify.app"
+            "URL":"https://startling-fox-1098ed.netlify.app",
+            "Github":"https://github.com/Jason-Barron07/PortfolioWithBSandJS.git"
           }
     ],
      "testimonials": [
